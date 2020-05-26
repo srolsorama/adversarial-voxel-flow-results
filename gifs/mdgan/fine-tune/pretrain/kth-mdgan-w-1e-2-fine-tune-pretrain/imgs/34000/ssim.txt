@@ -1,0 +1,1 @@
+tf.Tensor(0.9819663, shape=(), dtype=float32)
